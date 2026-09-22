@@ -1,0 +1,23 @@
+{
+  "name": "product-server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/hassanalii-dev/Product-Server#readme",
+  "bugs": {
+    "url": "https://github.com/hassanalii-dev/Product-Server/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanalii-dev/Product-Server.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
